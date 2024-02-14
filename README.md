@@ -7,7 +7,11 @@
 
 - 📫 How to reach me **vinicastro.dev@gamil.com**
 
-- 📄 Know about my experiences [👋 Hey there! I'm a developer with a knack for React, Node.js, TypeScript, and a background in PHP. I began my tech journey in 2017 and since then, I've been passionate about crafting scalable and user-centric solutions. 🌐 Founder of Code Labz, I've led the development of various projects, from UI/UX design (a personal interest of mine) to comprehensive system deployment. My experience includes creating systems for universities, blending theoretical knowledge with practical applications. 🔍 My expertise lies in creating intuitive interfaces and robust backends. My work features the use of React, Next.js, Material-UI, and React Hook Form, reflecting my commitment to efficient and modern design. 👨‍💻 I'm keen on mentoring and collaborating with peers in the tech community. My repositories showcase a range of projects and I'm always open to new ideas and partnerships.]
+- 📄 Know about my experiences
+- 👋 Hey there! I'm a developer with a knack for React, Node.js, TypeScript, and a background in PHP. I began my tech journey in 2017 and since then, I've been passionate about crafting scalable and user-centric solutions.
+- 🌐 Founder of Code Labz, I've led the development of various projects, from UI/UX design (a personal interest of mine) to comprehensive system deployment. My experience includes creating systems for universities, blending theoretical knowledge with practical applications.
+- 🔍 My expertise lies in creating intuitive interfaces and robust backends. My work features the use of React, Next.js, Material-UI, and React Hook Form, reflecting my commitment to efficient and modern design.
+- 👨‍💻 I'm keen on mentoring and collaborating with peers in the tech community. My repositories showcase a range of projects and I'm always open to new ideas and partnerships.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
