@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm vinicius castro</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinicastroo&label=Profile%20views&color=0e75b6&style=flat" alt="vinicastroo" /> </p>
-
 - 📫 How to reach me **vinicastro.dev@gmail.com**
 
 - 👋 Hey there! I'm a developer with a knack for React, Node.js, TypeScript, and a background in PHP. I began my tech journey in 2017 and since then, I've been passionate about crafting scalable and user-centric solutions.
