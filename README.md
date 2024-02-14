@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinicastroo&label=Profile%20views&color=0e75b6&style=flat" alt="vinicastroo" /> </p>
 
-- 📫 How to reach me **vinicastro.dev@gamil.com**
+- 📫 How to reach me **vinicastro.dev@gmail.com**
 
 - 👋 Hey there! I'm a developer with a knack for React, Node.js, TypeScript, and a background in PHP. I began my tech journey in 2017 and since then, I've been passionate about crafting scalable and user-centric solutions.
 - 🌐 Founder of Code Labz, I've led the development of various projects, from UI/UX design (a personal interest of mine) to comprehensive system deployment. My experience includes creating systems for universities, blending theoretical knowledge with practical applications.
