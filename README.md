@@ -16,9 +16,6 @@
     <a href="https://www.aurosimobiliaria.com.br/">🏢 Auros Corretora Imobiliária</a>
   </li>
   <li>
-    <a href="https://www.apjesc.com.br/">👨🏼‍⚖️ Apjesc</a>
-  </li>
-  <li>
     <a href="https://vinicastroo.github.io/pokedex/">🔴 Pokedex</a>
   </li>
 </ul>
