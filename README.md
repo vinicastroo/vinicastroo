@@ -7,6 +7,21 @@
 - 🌐 Founder of Code Labz, I've led the development of various projects, from UI/UX design (a personal interest of mine) to comprehensive system deployment. My experience includes creating systems for universities, blending theoretical knowledge with practical applications.
 - 🔍 My expertise lies in creating intuitive interfaces and robust backends. My work features the use of React, Next.js, Material-UI and React Hook Form among other js libraries, reflecting my commitment to efficient and modern design.
 
+<strong>Some Projects</strong>
+<ul>
+  <li>
+    <a href="https://www.codelabz.com.br/">🧪 Codelabz</a>
+  </li>
+  <li>
+    <a href="https://www.aurosimobiliaria.com.br/">🏢 Auros Corretora Imobiliária</a>
+  </li>
+  <li>
+    <a href="https://www.apjesc.com.br/">👨🏼‍⚖️ Apjesc</a>
+  </li>
+  <li>
+    <a href="https://vinicastroo.github.io/pokedex/">🔴 Pokedex</a>
+  </li>
+</ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vinicius-castro-da-costa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinicius-castro-da-costa/" height="30" width="40" /></a>
