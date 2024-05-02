@@ -16,6 +16,9 @@
     <a href="https://www.aurosimobiliaria.com.br/">🏢 Auros Corretora Imobiliária</a>
   </li>
   <li>
+    <a href="https://www.fidliz.com.br/">🫱🏻‍🫲🏼 Fidliz</a>
+  </li>
+  <li>
     <a href="https://vinicastroo.github.io/pokedex/">🔴 Pokedex</a>
   </li>
 </ul>
