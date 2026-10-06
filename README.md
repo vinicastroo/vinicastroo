@@ -26,7 +26,7 @@
 ### 🚀 Projetos em destaque
 
 **[🃏 Drafterzone](https://drafterzone.com)**  
-Plataforma de Magic: The Gathering para simular pré-release, draft e selado online com amigos, incluindo cube draft com coleção própria. Construída quase inteiramente com workflows agênticos de IA.  
+Plataforma de Magic: The Gathering para simular pré-release, draft e selado online com amigos, incluindo cube draft com coleção própria. Construída quase inteiramente com workflows de IA.  
 `TypeScript` `React` `Node.js`
 
 **[🎁 Lovegoods](https://lovegoods.com.br)**  
@@ -53,31 +53,25 @@ Site da minha software house de sites e sistemas web sob medida.
 
 ### 🛠️ Stack
 
-**Front end**
+**Linguagens**  
+`TypeScript` `JavaScript`
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+**Front end**  
+`React` `Next.js` `Vite` `Tailwind CSS` `shadcn/ui` `Radix UI` `styled-components`  
+`TanStack Query` `TanStack Table` `React Hook Form` `Zod` `Framer Motion` `Three.js` `React Three Fiber`
 
-**Back end**
+**Back end**  
+`Node.js` `GraphQL` `REST` `Prisma` `PostgreSQL` `Strapi` `NextAuth` `JWT`
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white)
+**Cloud e DevOps**  
+`AWS SQS` `AWS SES` `Vercel` `Docker` `CI/CD` `VPS`
 
-**Cloud e DevOps**
+**Observabilidade e analytics**  
+`Sentry` `PostHog` `Vercel Analytics`
 
-![AWS](https://img.shields.io/badge/AWS_SQS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+**Qualidade**  
+`Jest` `Testing Library` `ESLint` `Prettier` `Husky` `lint-staged`
 
-**IA**
-
-![OpenAI](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-
+**IA e automação**  
+`LLMs` `Claude Code` `Codex` `n8n`
 
